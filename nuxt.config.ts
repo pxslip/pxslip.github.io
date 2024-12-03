@@ -3,10 +3,9 @@ export default defineNuxtConfig({
   extends: '@nuxt-themes/alpine',
 
   modules: [
-    // https://github.com/nuxt-modules/plausible
-    '@nuxtjs/plausible',
     // https://github.com/nuxt/devtools
     '@nuxt/devtools',
-    '@nuxthq/studio',
-  ]
+  ],
+
+  compatibilityDate: '2024-12-03'
 })
