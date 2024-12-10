@@ -16,6 +16,7 @@
     "@types/node": "^22.10.0",
     "eslint": "^9.16.0",
     "nuxt": "^3.14.1592",
+    "pinceau": "^0.18.10",
     "typescript": "^5.7.2"
   },
   "packageManager": "pnpm@10.0.0-beta.1+sha256.04a46f912a650ef2dc835455934063bea4b8c2cfae3df3176e005b0fc34c470b"
